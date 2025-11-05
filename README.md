@@ -8,6 +8,7 @@
 - Kerem CAN
 - Kerimcan ÖZİNAL
 
+---
 
 ### MP3 - Veri Toplama Tasarımı
 
