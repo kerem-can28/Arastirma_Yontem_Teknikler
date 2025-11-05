@@ -11,7 +11,7 @@
 
 ### MP3 - Veri Toplama Tasarımı
 
-- **Yöntem:** Anket 
+- **Yöntem:** 
 - **Veri kaynağı:** 
 - **Kayıt sayısı:**
 - **Amaç:** 
