@@ -3,10 +3,10 @@
 [MP2.Sunumu.pptx](https://github.com/user-attachments/files/23062207/MP2.Sunumu.pptx)
 
 
-Nezaket DEMİRCİ 
-Mert Can YILMAZ
-Kerem CAN
-Kerimcan ÖZİNAL
+- Nezaket DEMİRCİ 
+- Mert Can YILMAZ
+- Kerem CAN
+- Kerimcan ÖZİNAL
 
 
 ### MP3 - Veri Toplama Tasarımı
