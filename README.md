@@ -12,6 +12,8 @@
 
 ### MP3 - Veri Toplama Tasarımı
 
+[Mp2-Mp3.pptx](https://github.com/user-attachments/files/23388513/Mp2-Mp3.pptx)
+
 - **Yöntem:** 
 - **Veri kaynağı:** 
 - **Kayıt sayısı:**
